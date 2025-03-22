@@ -4,7 +4,6 @@ Forge Mastercard certificate and tasks for Advisors and Consulting Services. Thi
 * Task 2: PPTX of Task 1.
 * Task 3: Short video (not included here) of the PPTX about Tasks 1 and 2.
 * Completed by 3/22/20225 by VictoriaRaven
-Note: 
 * Mastercard Advisors & Consulting Services Job Simulation on Forage - March 2025
  * Completed a job simulation involving data-driven marketing analysis for
    Mastercard.
