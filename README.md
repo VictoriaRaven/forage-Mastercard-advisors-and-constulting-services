@@ -17,6 +17,7 @@ This is a completion of the Forge Mastercard certificate and tasks for Advisors 
 * Task 2: PPTX of Task 1.
 * Task 3: Short video (not included here) of the PPTX about Tasks 1 and 2.
 * Completed by 3/22/20225 by VictoriaRaven
+* Time to complete all tasks: about 6 hours to complete alongside with UMGC classes.
 
 ### What is on resume/linkedin:
 Mastercard Advisors & Consulting Services Job Simulation on Forage - March 2025
